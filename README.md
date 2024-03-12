@@ -44,6 +44,25 @@ Successfully applied Mask R-CNN algorithm for unsupervised object detection, ach
 
 - Contribution:
 Provides practical insights into the algorithm's potential for real-world applications, contributing to the discourse on object detection algorithms.
+## How to use:
+Set Up Root Directory:
+
+Establish a root directory (e.g., Object Detection).
+Copy Necessary Files:
+
+Within the root directory, duplicate the 'mrcnn' directory.
+Download Pre-trained Weights:
+
+Retrieve the pre-trained weights and place them in the root directory.
+Access the weights via this link: Pre-trained Weights.
+Create Object Detection Script:
+
+Craft a script dedicated to object detection.
+Save this script within the root directory. An exemplary script can be found at: samples/mask-rcnn-prediction.py.
+Refer to the subsequent section for the script's code.
+Execute the Script:
+
+Run the script to initiate the object detection process.
 
 ## License:
 
