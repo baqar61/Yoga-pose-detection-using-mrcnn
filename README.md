@@ -54,11 +54,11 @@ Within the root directory, duplicate the 'mrcnn' directory.
 Download Pre-trained Weights:
 
 Retrieve the pre-trained weights and place them in the root directory.
-Access the weights via this link: Pre-trained Weights.
+Access the weights via this link:https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 Create Object Detection Script:
 
 Craft a script dedicated to object detection.
-Save this script within the root directory. An exemplary script can be found at: samples/mask-rcnn-prediction.py.
+Save this script within the root directory. An exemplary script can be found at: mask-rcnn-prediction.py.
 Refer to the subsequent section for the script's code.
 Execute the Script:
 
